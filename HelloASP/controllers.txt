@@ -1,0 +1,28 @@
+To use MVC Application
+#Startup.cs
+public void ConfigureServices(IServiceCollection services)
+        {
+            services.AddMvc();
+        }
+
+public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        {
+            app.UseMvc();
+            if (env.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+            }
+        }
+    }
+
+
+----------------------------------
+Add directories (Controllers/HomeController.cs, Views/Shared) MUST have these names.
+HomeController must have a Views Directories named "Home". (Controllers/DogController -> Views/Dog)
+
+namespace HelloASP
+{
+    public class HomeController : Controller{
+        #Must inherit from the Controller class
+    }
+}

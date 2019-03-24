@@ -1,0 +1,14 @@
+C:\Users\jonah\Desktop\my_c#_Stack\HelloASP\bin\Debug\netcoreapp2.1\HelloASP.deps.json
+C:\Users\jonah\Desktop\my_c#_Stack\HelloASP\bin\Debug\netcoreapp2.1\HelloASP.runtimeconfig.json
+C:\Users\jonah\Desktop\my_c#_Stack\HelloASP\bin\Debug\netcoreapp2.1\HelloASP.runtimeconfig.dev.json
+C:\Users\jonah\Desktop\my_c#_Stack\HelloASP\bin\Debug\netcoreapp2.1\HelloASP.dll
+C:\Users\jonah\Desktop\my_c#_Stack\HelloASP\bin\Debug\netcoreapp2.1\HelloASP.pdb
+C:\Users\jonah\Desktop\my_c#_Stack\HelloASP\obj\Debug\netcoreapp2.1\HelloASP.csprojAssemblyReference.cache
+C:\Users\jonah\Desktop\my_c#_Stack\HelloASP\obj\Debug\netcoreapp2.1\HelloASP.csproj.CoreCompileInputs.cache
+C:\Users\jonah\Desktop\my_c#_Stack\HelloASP\obj\Debug\netcoreapp2.1\HelloASP.RazorAssemblyInfo.cache
+C:\Users\jonah\Desktop\my_c#_Stack\HelloASP\obj\Debug\netcoreapp2.1\HelloASP.RazorAssemblyInfo.cs
+C:\Users\jonah\Desktop\my_c#_Stack\HelloASP\obj\Debug\netcoreapp2.1\HelloASP.AssemblyInfoInputs.cache
+C:\Users\jonah\Desktop\my_c#_Stack\HelloASP\obj\Debug\netcoreapp2.1\HelloASP.AssemblyInfo.cs
+C:\Users\jonah\Desktop\my_c#_Stack\HelloASP\obj\Debug\netcoreapp2.1\HelloASP.RazorTargetAssemblyInfo.cache
+C:\Users\jonah\Desktop\my_c#_Stack\HelloASP\obj\Debug\netcoreapp2.1\HelloASP.dll
+C:\Users\jonah\Desktop\my_c#_Stack\HelloASP\obj\Debug\netcoreapp2.1\HelloASP.pdb
