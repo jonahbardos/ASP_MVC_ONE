@@ -1,0 +1,14 @@
+C:\Users\jonah\Desktop\stuffcsharp\PortfolioUno\bin\Debug\netcoreapp2.1\PortfolioUno.deps.json
+C:\Users\jonah\Desktop\stuffcsharp\PortfolioUno\bin\Debug\netcoreapp2.1\PortfolioUno.runtimeconfig.json
+C:\Users\jonah\Desktop\stuffcsharp\PortfolioUno\bin\Debug\netcoreapp2.1\PortfolioUno.runtimeconfig.dev.json
+C:\Users\jonah\Desktop\stuffcsharp\PortfolioUno\bin\Debug\netcoreapp2.1\PortfolioUno.dll
+C:\Users\jonah\Desktop\stuffcsharp\PortfolioUno\bin\Debug\netcoreapp2.1\PortfolioUno.pdb
+C:\Users\jonah\Desktop\stuffcsharp\PortfolioUno\obj\Debug\netcoreapp2.1\PortfolioUno.csprojAssemblyReference.cache
+C:\Users\jonah\Desktop\stuffcsharp\PortfolioUno\obj\Debug\netcoreapp2.1\PortfolioUno.csproj.CoreCompileInputs.cache
+C:\Users\jonah\Desktop\stuffcsharp\PortfolioUno\obj\Debug\netcoreapp2.1\PortfolioUno.RazorAssemblyInfo.cache
+C:\Users\jonah\Desktop\stuffcsharp\PortfolioUno\obj\Debug\netcoreapp2.1\PortfolioUno.RazorAssemblyInfo.cs
+C:\Users\jonah\Desktop\stuffcsharp\PortfolioUno\obj\Debug\netcoreapp2.1\PortfolioUno.AssemblyInfoInputs.cache
+C:\Users\jonah\Desktop\stuffcsharp\PortfolioUno\obj\Debug\netcoreapp2.1\PortfolioUno.AssemblyInfo.cs
+C:\Users\jonah\Desktop\stuffcsharp\PortfolioUno\obj\Debug\netcoreapp2.1\PortfolioUno.RazorTargetAssemblyInfo.cache
+C:\Users\jonah\Desktop\stuffcsharp\PortfolioUno\obj\Debug\netcoreapp2.1\PortfolioUno.dll
+C:\Users\jonah\Desktop\stuffcsharp\PortfolioUno\obj\Debug\netcoreapp2.1\PortfolioUno.pdb
