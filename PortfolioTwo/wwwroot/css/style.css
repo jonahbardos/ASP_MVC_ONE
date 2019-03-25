@@ -1,0 +1,14 @@
+.navbar{
+    text-align: center;
+}
+
+.aboutme{
+    text-align: center;
+}
+
+.proj{
+    border: 1px solid black;
+    overflow: auto;
+    height: 500px;
+    
+}
